@@ -18,7 +18,7 @@ header, h2, h3, p, .courselist  {
 
 header {
 	max-width: 1000px;
-	background-color: #2f2f5d99;
+	background-color: #005d1899;
 	box-shadow:0 0 10px 5px #e4e0c1;
 	border-radius: 30px;
 	padding:0.5ch 2ch;
@@ -51,7 +51,7 @@ footer li{
 
 li a {
 	color: white;
-	background-color: #2f2f5d99;
+	background-color: #005d1899;
 	border-radius: 30px;
 	padding:1.5ch 3ch;	
 	box-shadow:0 0 10px 2px #e4e0c1;
